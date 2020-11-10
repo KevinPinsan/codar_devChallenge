@@ -1,0 +1,235 @@
+
+
+@media only screen and (min-width: 700px) {
+    *{
+        font-size: 12px;
+    }
+    img{
+        width: 200px;
+        height: 200px;
+    }
+    header {
+        padding: 0px;
+    }
+    .redButton{
+        padding: 11px 45px;
+    }
+    .text-image{
+        margin: 24px 0px 200px 0px;
+    }
+
+    #image-left h1 {
+        font-size: 2.39rem;
+    }
+
+    #image-right ul {
+        margin-left: 61px;
+    }
+
+    #image-right-text {
+        margin: 0px 10px 150px 60px;
+    }
+
+    #image-right-text input {
+        width: 140px;
+    }
+
+    #image-right-text a {
+        padding: 14px 50px;
+        width: 125px;
+        display: inline-block;
+        font-size: 13px;
+    }
+    .comments-box{
+        margin: 0px;
+    }
+    .comments {
+        width: 270px;
+        height: 150px;
+    }
+
+    
+    #social-box div{
+
+    display: flex;
+    margin-top: 5px;
+    }
+    
+    #social-box {
+        display: grid;
+        justify-items: center;
+        text-align: center;
+    }
+
+    .footer-div object {
+        scale: 1;
+    }
+}
+@media only screen and (min-width: 800px) {
+    *{
+        font-size: 14px;
+    }
+    header{
+        margin: 0px 10px;
+    }
+    .text-image{
+        margin: 24px 0px 200px 0px;
+    }
+    #image-right ul{
+        padding-left: 0px;
+        margin-left: 70px;
+    }
+
+    #image-right-text {
+        margin: 0px 20px 10em 70px;
+    }
+
+    #image-right-text a {
+        padding: 14px 50px;
+        width: 150px;
+        display: inline-block;
+    }
+    #image-right-text input{
+        width: 180px;
+    }
+    .comments{
+        width: 300px;
+    }
+
+    
+
+
+@media only screen and (min-width: 900px) {
+    header{
+        margin: 0px 10px;
+    }
+    .text-image{
+        margin: 24px 55px 200px 75px;
+    }
+
+    #image-right-text {
+
+        margin: 0px 20px 10em 125px;
+    }
+
+    #image-right ul{
+        padding-left: 0px;
+        margin-left: 50px;
+    }
+    .comments{
+        width: 300px;
+    }
+    .footer-div {
+        margin: 25px 22px;
+    }
+}
+@media only screen and (min-width: 1080px) {
+    header{
+        margin: 0px 20px;
+    }
+    .text-image{
+        margin: 24px 90px 10em 130px;
+    }
+    #image-right ul{
+        padding-left: 0px;
+    }
+
+    .comments{
+        width: 415px;
+    }
+
+}
+@media only screen and (min-width: 1100px) {
+
+    header{
+        margin: 0px 23px;
+    }
+    .text-image{
+        margin: 24px 90px 10em 130px;
+    }
+    #image-right ul{
+        padding-left: 0px;
+    }
+    .comments{
+        width: 470px;
+    }
+
+    #image-left h1 {
+        font-size: 2.79rem;
+    }
+
+    #image-right-text {
+
+        margin: 0px 20px 10em 180px;
+    }
+
+}
+
+@media only screen and (min-width: 1300px) {
+
+    header{
+        margin: 0px 70px;
+    }
+    .text-image{
+        margin: 24px 140px 10em 180px;
+    }
+
+    #image-left h1 {
+        font-size: 3rem;
+    }
+    #image-right ul{
+        padding-left: 0px;
+    }
+    #image-right-text {
+        margin: 0px 160px 160px 230px;
+    }
+    .comments{
+        width: 500px;
+    }
+    .text-comment {
+        font-size: 13px;
+    }
+
+}
+
+@media only screen and (min-width: 1500px) {
+    
+    header{
+        margin: 0px 80px;
+    }
+    .text-image{
+        margin: 24px 150px 10em 190px;
+    }
+
+    #image-right ul{
+        padding-left: 0px;
+    }
+    #image-right-text {
+        margin: 0px 160px 160px 240px;
+    }
+
+    .comments{
+        width: 600px;
+    }
+
+
+}
+
+
+
+@media only screen and (min-width: 1670px) {
+    
+    header{
+        margin: 0px 100px;
+    }
+    .text-image{
+        margin: 24px 170px 10em 210px;
+    }
+
+    #image-right ul{
+        padding-left: 0px;
+    }
+    #image-right-text {
+        margin: 0px 160px 160px 260px;
+    }
+}
